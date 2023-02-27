@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tms06onl.framework.qase-master" />
+        <module name="Diploma project of the site QASE.IO" />
+        <module name="test_project" />
+        <module name="Diploma_project_of_the_site_QASE.IO" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
